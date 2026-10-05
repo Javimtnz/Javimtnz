@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋</h1> <p align="center"> Estudiante de Ingeniería de Sistemas de Telecomunicación, con debilidad por entender las cosas construyéndolas desde cero. </p>
+<h1 align="center">¡Hola! 👋</h1> <p align="center"> Estudiante de Ingeniería Informática, con debilidad por entender las cosas construyéndolas desde cero. </p>
 
 ---
 
